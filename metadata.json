@@ -1,0 +1,5 @@
+{
+  "name": "Spring Boot API Frontend Demo",
+  "description": "A React frontend application demonstrating the consumption of E-commerce APIs (Categories, Products, Top Selling, New Arrivals) as required by the Web Programming assignment.",
+  "requestFramePermissions": []
+}
